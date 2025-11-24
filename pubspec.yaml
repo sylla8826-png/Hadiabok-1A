@@ -1,0 +1,30 @@
+name: hadiabok_a1
+description: Une application de réseau social — squelette initial
+publish_to: "none"
+version: 0.1.0+1
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  provider: ^6.0.5
+  firebase_core: ^2.10.0
+  firebase_auth: ^4.6.0
+  cloud_firestore: ^4.9.0
+  firebase_storage: ^11.0.0
+  cached_network_image: ^3.2.4
+  carousel_slider: ^4.2.0
+  flutter_svg: ^2.1.1
+  image_picker: ^0.8.7+4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
