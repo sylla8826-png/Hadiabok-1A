@@ -46,3 +46,19 @@ Si tu veux, je peux aussi :
 ✅ ajouter du code (page d’accueil, login, thème sombre, etc.)  
 
 Tu veux que je génère le **code de base de l’application Hadiabok A1** ?
+
+
+## ▶️ Lancer l'application
+
+Dans votre terminal :
+
+```bash
+# 1. Installer les dépendances
+flutter pub get
+
+# 2. Lancer l'application
+flutter run
+
+# 3. Générer l'APK (optionnel)
+flutter build apk --release '''
+
