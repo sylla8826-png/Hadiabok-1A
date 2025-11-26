@@ -46,3 +46,4 @@ Si tu veux, je peux aussi :
 ✅ ajouter du code (page d’accueil, login, thème sombre, etc.)  
 
 Tu veux que je génère le **code de base de l’application Hadiabok A1** ?
+`flutter pub get`
